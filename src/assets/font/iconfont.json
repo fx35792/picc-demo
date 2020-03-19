@@ -1,0 +1,23 @@
+{
+  "id": "1700886",
+  "name": "vant-demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "iconfont-",
+  "description": "vant-demo",
+  "glyphs": [
+    {
+      "icon_id": "851473",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "1487403",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
